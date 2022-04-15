@@ -1,16 +1,23 @@
-### Hi there 👋
+### 자기소개
+#### 초보 개발자
 
-<!--
-**koreaserver/koreaserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 연락처
+- 2000.03.02
+- 메일 : sales@rtg.kr
+##### 현재
+- 2021 ~ 현재 >> 대학교 재학중
+- 2018 ~ 현재 >> 호스팅 업체 운영중
+##### 대회
+- NYPC(NEXON Youth Programming Challenge)
+- 해킹존(HackingZone) - SAMSUNG SDS
+##### 대학
+- AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발(대학 연구)
+- AI·SW 아이디어 해커톤
+- AI·SW 안향 교육 프로그램 - 멘토
+- 초, 중, 고 SW 교육 봉사
+##### 기록
+- TTS(Text to Speech) 플랫폼
+- RTMP/HLS 인터넷 방송 플랫폼
+- MCN 웹사이트 프론트
+- 온라인 광고 웹사이트
+- 쇼핑몰 사이트
