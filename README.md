@@ -1,12 +1,11 @@
-### 자기소개
-#### 초보 개발자
+#### 개발자가 되고싶은 사람
 
 ##### 연락처
 - 2000.03.02
-- 메일 : sales@rtg.kr
+- 메일 : rtgroup@naver.com
 ##### 현재
 - 2021 ~ 현재 >> 대학교 재학중
-- 2018 ~ 현재 >> 호스팅 업체 운영중
+- 2018 ~ 현재 >> 자동화 클라우드 호스팅 운영중(클라우드, 단독, 코로케이션, DDoS 등 서비스 제공중)
 ##### 대회
 - NYPC(NEXON Youth Programming Challenge)
 - 해킹존(HackingZone) - SAMSUNG SDS
