@@ -5,7 +5,7 @@
 - 메일 : rtgroup@naver.com
 ##### 현재
 - 2021 ~ 현재 >> 대학교 재학중
-- 자동화 클라우드 호스팅 운영중(클라우드, 단독, 코로케이션, DDoS 등 서비스 제공중)
+- 자동화 호스팅 운영중(클라우드, 단독, 코로케이션, DDoS 등 서비스 제공중)
 ##### 대회
 - NYPC(NEXON Youth Programming Challenge)
 - 해킹존(HackingZone) - SAMSUNG SDS
