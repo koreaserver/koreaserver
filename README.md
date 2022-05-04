@@ -11,9 +11,10 @@
 - 해킹존(HackingZone) - SAMSUNG SDS
 ##### 대학
 - AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발(대학 연구)
-- AI·SW 아이디어 해커톤
+- AI·SW 아이디어 해커톤 대회
 - AI·SW 안향 교육 프로그램 - 멘토
 - 초, 중, 고 SW 교육 봉사
+- AI 데이터 경진대회
 ##### 기록
 - TTS(Text to Speech) 플랫폼
 - RTMP/HLS 인터넷 방송 플랫폼
