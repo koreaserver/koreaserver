@@ -1,3 +1,5 @@
+[ 이력 ]
+
 Mail : rtgroup@naver.com
 - Pai Chai University Sophomore(2021 ~ Now)
 - Running Hosting•IDC•DDoS Automation Service(2018 ~ Now)
