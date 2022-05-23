@@ -1,19 +1,20 @@
-- 메일 : rtgroup@naver.com
-# 현재
-- 2021 대학교 재학중
-- 자동화 호스팅 운영중(클라우드, 단독, DDoS 등 IDC 서비스 제공중)
-- AI 데이터 경진 대회
-## 과거
-- AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발(대학 연구)
-- NYPC(NEXON Youth Programming Challenge)
-- 해킹존(HackingZone) - SAMSUNG SDS
-- AI·SW 안향 교육 프로그램 - 멘토
-- 재능나눔 SW봉사단
-- 대학 사업 지원(특허, 연구, 사무실 등)
-- AI·SW 집중학기제
-- AI·SW 아이디어 해커톤 대회
-- 사업장 인프라 2억 매각
-- TTS(Text to Speech) 플랫폼
-- RTMP/HLS 인터넷 방송 플랫폼
-- 해킹 대회 지원(버그바운티 구축 및 운영)
-- 대형 크리에이터 호스팅 서버 지원(네트워크 및 서버 부하분산 DDoS 보안)
+- Mail : rtgroup@naver.com
+# Loading
+- 2021 University
+- Hosting•IDC•DDoS Automation Service
+- AI Data Competition
+## Log
+- University Research Activities [AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발]
+- NYPC(NEXON Youth Programming Challenge) Competition
+- SAMSUNG SDS HackingZone Competition
+- AI•SW Education Program [Mentor]
+- AI•SW Education Volunteer
+- University Research Engineer & Team Support By Government Expenditure [Patent Preparation, Business Expenses, Office]
+- AI·SW Deepening Study
+- AI·SW University Idea Hackathon Competition
+- IT Infrastructure Enterprise Vend $200M
+- TTS Platform Establish
+- RTMP Platform Establish
+- Hacking Competition Establish [The Bug Bounty Program]
+- 1M Creator Hosting Server Establish
+- Establish Another Company Hosting Service
