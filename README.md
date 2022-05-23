@@ -1,9 +1,9 @@
 - Mail : rtgroup@naver.com
-# Loading
+### now
 - Sophomore Daejeon University
 - Running Hosting•IDC•DDoS Automation Service
 - AI Data Competition
-## Log
+### log
 - University Research Activities [AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발]
 - NYPC(NEXON Youth Programming Challenge) Competition
 - SAMSUNG SDS HackingZone Competition
