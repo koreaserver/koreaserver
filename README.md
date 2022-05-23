@@ -17,4 +17,4 @@
 - RTMP Platform Establish
 - Hacking Competition Establish [The Bug Bounty Program]
 - 1M Creator Hosting Server Establish
-- Establish Another Company Hosting Service
+- Establish Other Company Hosting Service
