@@ -1,7 +1,7 @@
 - Mail : rtgroup@naver.com
 ### now
-- Pai Chai University Sophomore(2021~)
-- Running Hosting•IDC•DDoS Automation Service(2018~)
+- Pai Chai University Sophomore(2021 ~ now)
+- Running Hosting•IDC•DDoS Automation Service(2018 ~ Now)
 - AI Data Competition
 ### log
 - University Research Activities [AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발]
