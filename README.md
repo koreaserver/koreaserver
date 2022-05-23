@@ -9,7 +9,7 @@
 - SAMSUNG SDS HackingZone Competition
 - AI•SW Education Program [Mentor]
 - AI•SW Education Volunteer
-- University Research Engineer & Team Support By Government Expenditure [Patent Preparation, Business Expenses, Office]
+- University Research Engineer & Team stablish By Government Expenditure [Patent Preparation, Business Expenses, Office]
 - AI·SW Deepening Study
 - AI·SW University Idea Hackathon Competition
 - IT Infrastructure Enterprise Vend $200M
