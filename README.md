@@ -1,7 +1,7 @@
 - Mail : rtgroup@naver.com
 # Loading
 - 2021 Sophomore University
-- Hosting•IDC•DDoS Automation Service
+- Running Hosting•IDC•DDoS Automation Service
 - AI Data Competition
 ## Log
 - University Research Activities [AI 기반의 수술 중 심장 및 혈관 장애 예측 시스템 개발]
