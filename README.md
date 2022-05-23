@@ -1,6 +1,6 @@
 - Mail : rtgroup@naver.com
 # Loading
-- 2021 University
+- 2021 Sophomore University
 - Hosting•IDC•DDoS Automation Service
 - AI Data Competition
 ## Log
@@ -13,8 +13,8 @@
 - AI·SW Deepening Study
 - AI·SW University Idea Hackathon Competition
 - IT Infrastructure Enterprise Vend $200M
-- TTS Platform Establish
-- RTMP Platform Establish
+- TTS Platform Implemention
+- RTMP Platform Implemention
 - Hacking Competition Establish [The Bug Bounty Program]
-- 1M Creator Hosting Server Establish
-- Establish Other Company Hosting Service
+- 1M Subscriber Youtube Creator Hosting Server Implemention
+- Other Company Hosting Service Implemention
