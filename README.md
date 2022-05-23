@@ -1,6 +1,6 @@
 - Mail : rtgroup@naver.com
 # Loading
-- 2021 Sophomore University
+- Sophomore Daejeon University
 - Running Hosting•IDC•DDoS Automation Service
 - AI Data Competition
 ## Log
