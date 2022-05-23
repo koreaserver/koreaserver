@@ -1,6 +1,6 @@
 - Mail : rtgroup@naver.com
 ### now
-- Sophomore Daejeon University
+- Pai Chai University Sophomore
 - Running Hosting•IDC•DDoS Automation Service
 - AI Data Competition
 ### log
