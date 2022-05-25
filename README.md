@@ -1,4 +1,3 @@
-[ 이력 ]
 
 Mail : rtgroup@naver.com
 
