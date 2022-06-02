@@ -1,5 +1,5 @@
 
-Mail : rtgroup@naver.com
+Mail : admin@rtg.kr
 
 -  Pai Chai University Sophomore(2021-Present)
 -  Hosting•IDC•DDoS Automation Service(2018-Present)
