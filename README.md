@@ -5,7 +5,7 @@
 -  AI•SW Education Program [Mentor]
 -  AI•SW Education Volunteer
 -  University Research Engineer Team Established By Government Expenditure [Patent Preparation, Business Expenses, Office]
--  Sold an IT Infrastructure for $200 Million
+-  Sold an IT Infrastructure for 200 Million won
 -  Implemented Hosting Server for a 1 Million Subscriber Youtuber
 -  Implemented Real Estate Brokerage Platform 
 -  Implemented TTS Platform 
