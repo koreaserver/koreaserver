@@ -1,7 +1,7 @@
 -  Pai Chai University Sophomore(2021-Present)
 -  Hosting•IDC•DDoS Automation Service(2018-Present)
--  AI Data Competition
--  From University Research Study, I created an AI system that predicts what will happen while operating on the heart and other vascular disorders
+-  I created a platform based on AI data to participate a development contest.
+-  From University Research Group, I created an AI system that predicts what will happen while operating on the heart and other vascular disorders
 -  AI•SW Education Program [Mentor]
 -  AI•SW Education Volunteer
 -  University Research Engineer Team Established By Government Expenditure [Patent Preparation, Business Expenses, Office]
@@ -14,6 +14,6 @@
 -  Competed in NYPC(NEXON Youth Programming Challenge)
 -  Competed in AI·SW University Idea Hackathon
 -  Competed in Hacking Competition Establish [The Bug Bounty Program]
--  I reported a bug from toss, and they could able to solve the bug by my reports.
+-  I reported a bug from Toss, and they could able to solve the bug by my reports.
 -  I reported a serious weakness from Naver
--  I reported a serious weakness from afreecaTV
+-  I reported a serious weakness from AfreecaTV
