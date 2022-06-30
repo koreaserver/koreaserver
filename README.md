@@ -8,9 +8,12 @@
 -  Sold an IT Infrastructure for 200 Million won
 -  Implemented Hosting Server for a 1 Million Subscriber Youtuber
 -  Implemented Real Estate Brokerage Platform 
--  Implemented TTS Platform 
--  Implemented RTMP Platform 
+-  Implemented TTS(Text to Speech) Platform 
+-  Implemented Wowza RTMP(Real Time Messaging Protocol), HLS(HTTP Live Streaming) Platform 
 -  Competed in SAMSUNG SDS HackingZone
 -  Competed in NYPC(NEXON Youth Programming Challenge)
 -  Competed in AI·SW University Idea Hackathon
 -  Competed in Hacking Competition Establish [The Bug Bounty Program]
+-  I reported a bug from toss, and they could able to solve the bug by my reports.
+-  I reported a serious weakness from Naver
+-  I reported a serious weakness from afreecaTV
