@@ -5,7 +5,7 @@
 -  AI•SW Education Program [Mentor]
 -  AI•SW Education Volunteer
 -  University Research Engineer Team Established By Government Expenditure [Patent Preparation, Business Expenses, Office]
--  Sold an IT Infrastructure for 200 Million won
+-  Sold an IT Infrastructure for 200,000 $
 -  Implemented Hosting Server for a 1 Million Subscriber Youtuber
 -  Implemented Real Estate Brokerage Platform 
 -  Implemented TTS(Text to Speech) Platform 
@@ -14,6 +14,6 @@
 -  Competed in NYPC(NEXON Youth Programming Challenge)
 -  Competed in AI·SW University Idea Hackathon
 -  Competed in Hacking Competition Establish [The Bug Bounty Program]
--  I reported a bug from Toss, and they could able to solve the bug by my reports.
--  I reported a serious weakness from Naver
--  I reported a serious weakness from AfreecaTV
+-  I reported a bug from Toss, and they could able to solve the bug by my reports
+-  I reported vulnerabilities of Naver
+-  I reported vulnerabilities of AfreecaTV
