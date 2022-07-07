@@ -17,3 +17,5 @@
 -  I reported a bug from Toss, and they could able to solve the bug by my reports
 -  I reported vulnerabilities of Naver
 -  I reported vulnerabilities of AfreecaTV
+-  Based on the electronic device price comparison site called Danawa, we built a computer estimation site using a technology called web crawling.
+The main feature of the site I created is to know in detail which seller sells the cheapest.
